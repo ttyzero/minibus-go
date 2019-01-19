@@ -62,10 +62,14 @@ close(exampleChan)
 
 <hr/>
 <table border='none' width='100%'>
+<colgroup>
+<col width='300px'>
+<col width='*'>
+</colgroup>
 <tr><td>
 <img src='https://raw.githubusercontent.com/ttyzero/logo/master/assets/ttyzero_animated.png' alt='ttyZero Logo' title='ttyZero Logo'/>
 </td>
-<td>
+<td style='padding-left: 10em'>
 <h3>Minibus-go is part of the <a href='http://github.com/ttyzero'>ttyZero Project</a></h3>
 <hr/>
 <b>Minibus-go</b> is <i>(c) 2019 ttyZero authors</i> <br/>
