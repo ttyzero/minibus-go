@@ -65,10 +65,11 @@ close(exampleChan)
 
 <table>
 <tr><td>
-![ttyZero Logo](/docs/ttyzero_animated.png?raw=true) 
+<img src='https://raw.githubusercontent.com/ttyzero/logo/master/assets/ttyzero_animated.png' alt='ttyZero Logo' title='ttyZero Logo'/>
 </td>
 <td>
-Minibus-go is (c) 2019 ttyZero authors and available under the MIT license. 
+Minibus-go is (c) 2019 ttyZero authors <br/>
+available under the MIT license. 
 </td></tr>
 </table>
 
