@@ -60,6 +60,7 @@ exampleChan := mb.OpenChannel("example-channel")
 close(exampleChan)
 ```
 
+<br/><br/>
 <table>
 <tr><td>
 <img src='https://raw.githubusercontent.com/ttyzero/logo/master/assets/ttyzero_animated.png' alt='ttyZero Logo' title='ttyZero Logo'/>
