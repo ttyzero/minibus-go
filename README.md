@@ -60,14 +60,12 @@ exampleChan := mb.OpenChannel("example-channel")
 close(exampleChan)
 ```
 
-<hr/>
-<table border='0' width='100%'>
+<table>
 <tr><td>
 <img src='https://raw.githubusercontent.com/ttyzero/logo/master/assets/ttyzero_animated.png' alt='ttyZero Logo' title='ttyZero Logo'/>
 </td>
 <td style='padding-left: 10em'>
-<h3>Minibus-go is part of the <a href='http://github.com/ttyzero'>ttyZero Project</a></h3>
-<hr/>
+<h2>Minibus-go is part of the <a href='http://github.com/ttyzero'>ttyZero Project</a></h2>
 <b>Minibus-go</b> is <i>(c) 2019 ttyZero authors</i> <br/>
  and is available under the <b>MIT license</b>. 
 </td></tr>
