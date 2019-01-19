@@ -63,6 +63,12 @@ close(exampleChan)
 
 ## Minibus-go is part of the ttyZero project
 
+<table>
+<tr><td>
+![ttyZero Logo](/docs/ttyzero_animated.png?raw=true) 
+</td>
+<td>
+Minibus-go is (c) 2019 ttyZero authors and available under the MIT license. 
+</td></tr>
+</table>
 
-![ttyZero Logo](/docs/ttyzero_animated.png?raw=true) | Minibus-go is (c) 2019 ttyZero authors and available under the MIT license. |
---- | --- 
