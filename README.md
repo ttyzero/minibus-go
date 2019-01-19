@@ -61,7 +61,7 @@ close(exampleChan)
 ```
 
 <hr/>
-<table>
+<table style='width:95%; margin-left:auto; margin-right: auto; border: none;'>
 <tr><td>
 <img src='https://raw.githubusercontent.com/ttyzero/logo/master/assets/ttyzero_animated.png' alt='ttyZero Logo' title='ttyZero Logo'/>
 </td>
