@@ -7,12 +7,12 @@ message bus. You can use this to both listen for and send messages to minibus ch
 
 ## Creating a client
 
-Creating a client is very simple, use Client and pass in the fully qualified path
+Creating a client is very simple, use New and pass in the fully qualified path
 to the minibus working dir, or `minibus.Default` to connect to the default location
 provided by `os.UserCacheDir() + /minibus`.  This is a non-blocking operation. 
 
 ```go
-mb := minibus.Client(minibus.Default)
+mb := minibus.New(minibus.Default)
 ```
 
 ## Sending Messages
